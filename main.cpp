@@ -163,7 +163,6 @@ int main() {
                 nombresPremiers[nombresTestes]=nombreTeste;
                 nombresTestes++;
                 //cout << nombreTeste << endl;
-                if(nombresTestes==nombreAChercher) break;
             }
         }
         nombreTeste+=2;
